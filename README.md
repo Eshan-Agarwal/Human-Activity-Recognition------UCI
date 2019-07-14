@@ -1,5 +1,6 @@
 # Human-Activity-Recognition------> UCI
-
+<h2> We are using Divide & Conquer approach and train two models one for static and one for dynamic on simple raw data.</br>
+	For check results open HAR_dynamic.ipynb & HAR_static.ipynb.</h2>
 # HumanActivityRecognition
 
 <br>
